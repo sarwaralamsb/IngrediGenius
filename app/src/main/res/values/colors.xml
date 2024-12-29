@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background color -->
+    <color name="background_color">#F5F5F5</color> <!-- Light gray -->
+
+    <!-- Text colors -->
+    <color name="primary_text_color">#333333</color> <!-- Dark gray for primary text -->
+    <color name="secondary_text_color">#666666</color> <!-- Lighter gray for secondary text -->
+
+    <!-- Button colors -->
+    <color name="button_color">#6200EE</color> <!-- Deep purple for primary button -->
+    <color name="button_color_alt">#03DAC5</color> <!-- Teal for secondary button -->
+
+    <!-- Input background -->
+    <color name="input_background">#FFFFFF</color> <!-- White background for inputs -->
+
+    <!-- Stroke color for inputs -->
+    <color name="input_stroke">#CCCCCC</color> <!-- Light gray border -->
+</resources>
